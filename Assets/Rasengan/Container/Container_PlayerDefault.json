@@ -1,0 +1,16 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "PlayerDefault",
+  "saveFolder": "bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "referenceID": "RasenganSpell",
+      "reference": "Item",
+      "customValues": []
+    }
+  ]
+}
